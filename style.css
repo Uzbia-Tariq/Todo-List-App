@@ -1,0 +1,28 @@
+   
+        body {
+
+            background: linear-gradient(135deg,
+                    #dbeafe,
+                    #eef2ff,
+                    #ffffff);
+
+            min-height: 100vh;
+
+        }
+
+        .task-text {
+
+            word-break: break-word;
+
+        }
+
+        .completed {
+
+            text-decoration: line-through;
+
+            color: gray;
+
+            opacity: .7;
+
+        }
+    
